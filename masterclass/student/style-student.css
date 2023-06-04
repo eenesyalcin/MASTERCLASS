@@ -1,0 +1,44 @@
+/* Content settings */
+.mt-150{
+    margin-top: 150px;
+}
+.mt-100{
+    margin-top: 100px;
+}
+
+/* Background color style */
+.bg-lightgray{
+    background-color: lightgray;
+}
+
+/* Navigation menu styles */
+.container .navbar-brand{
+    color :yellow;
+}
+.collapse .nav-item a:hover{
+    color: black;
+    background-color: yellow;
+}
+.me-120{
+    margin-right: 120px;
+}
+
+/* Button positioning settings */
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/* Shadow style */
+.shadow-s{
+    background-color: darkgrey;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    box-shadow: 25px 25px 60px black;
+}
